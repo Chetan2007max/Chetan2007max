@@ -12,7 +12,6 @@
 - 💡 Passionate about **Backend Development, AI, & Applied ML**
 - 💻 Solved **650+ DSA problems (350+ LeetCode, 300+ GFG)**
 - ⚡ Love building with **Python (FastAPI), React.js, and SQL databases**
-- 🎯 Eager to learn **async systems (Celery, Redis, RabbitMQ) and graph databases (Neo4j)**
 
 ---
 
